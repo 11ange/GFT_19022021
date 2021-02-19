@@ -21,7 +21,7 @@ public class Divisao extends Operacao {
             System.out.print("!!ERRO!! Divisão por zero! ");
             return 0;
         } else {
-            return (this.x / this.y);
+            return (x / y);
         }
     }
 }
