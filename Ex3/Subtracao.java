@@ -17,6 +17,6 @@ public class Subtracao extends Operacao {
 
     @Override
     public double efetuarOperacao(double x, double y) {
-        return (this.x - this.y);
+        return (x - y);
     }
 }
